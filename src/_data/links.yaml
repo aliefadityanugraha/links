@@ -1,33 +1,29 @@
 mainLinks:
-  - desc: This free & open source project is made by Altertek
-    url: https://altertek.org
+  - desc: Figma prototype project
+    url: https://ksana.in/UI-UX-JFC-TICKET
     thumbnail: static/img/altertek.png
     isVisible: true
-  - desc: Use it as an alternative to linktree
-    url: https://linktr.ee
+  - desc: Instagram
+    url: https://instagram.com/aliefaditya.n
     isVisible: true
-  - desc: Build with Jamstack technologies
-    url: https://jamstack.org
-    thumbnail: static/img/jamstack.png
-    isVisible: true
-  - desc: "See the source code"
-    url: https://github.com/altertek/whatimupto
+  - desc: "My Github"
+    url: https://github.com/aliefadityanugraha
     thumbnail: static/img/octo-propaganda.jpg
     isVisible: true
 footerLinks:
   - icon: envelope
-    url: mailto:contact@altertek.org
+    url: mailto:adty.nv@gmail.com
     title: mail
     isVisible: true
   - icon: globe
-    url: https://altertek.org
+    url: https://github.com/aliefadityanugraha
     title: website
     isVisible: true
   - icon: github
-    url: https://github.com/altertek
+    url: https://github.com/aliefadityanugraha
     title: github
     isVisible: true
-  - icon: twitter
-    url: https://twitter.com/altertek
-    title: twitter
+  - icon: instagram
+    url: https://instagram.com/aliefaditya.n
+    title: instagram
     isVisible: true
